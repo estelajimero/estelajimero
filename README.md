@@ -5,7 +5,7 @@
 ## *A designer learning frontend and UX / UI design.
   
 
-✨ I ❤️ cats, having breakfast and music shows.
+✨ I ❤️ cats, having breakfast and music.
 
    <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
