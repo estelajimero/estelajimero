@@ -2,12 +2,7 @@
 
 # I'm Estela
 
-## *A designer learning frontend and UX / UI design*
-
-
-🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/estelajimero?tab=repositories)**
-   
-   </br>
+## *A designer learning frontend and UX / UI design.
   
 
 ✨ I ❤️ cats, having breakfast and music shows.
