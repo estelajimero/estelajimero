@@ -40,4 +40,4 @@
 
   <a href="https://twitter.com/holaconfetti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/estelajimero/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<img src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.mp4" height="32px" /></a>
+<img src="https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/source.gif" height="60x" />
