@@ -3,8 +3,7 @@
 # I'm Estela
 
 ## *A designer learning frontend and UX / UI design.*
-  
-  
+<br> 
 ✨ I ❤️ cats, having breakfast and music.
 <br><br>
    
