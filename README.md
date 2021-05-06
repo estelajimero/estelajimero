@@ -1,6 +1,4 @@
-### Hey 👋
-
-# I'm Estela
+### Hey 👋 I'm Estela
 
 ## *A designer learning frontend and UX / UI design.*
 <br> 
