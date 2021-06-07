@@ -22,8 +22,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="32"/> </a> &nbsp;
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="32"/> </a>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=estelajimero&show_icons=true&locale=en&layout=compact)
-
 
   <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
