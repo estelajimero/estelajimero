@@ -1,6 +1,5 @@
-### Hey 👋 I'm Estela
+### Hey 👋 I'm Estela a designer learning frontend and UX / UI.*
 
-### *Designer learning frontend and UX / UI.*
 <br> 
 ✨ I ❤️ cats, having breakfast and music.
 <br><br>
