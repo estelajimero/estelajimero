@@ -17,6 +17,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+    <a href="https://es.parceljs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/parcel/parcel-original.svg" alt="parcel" width="40" height="40"/> </a> 
   <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="32"/> </a> &nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="32"/> </a> &nbsp;
