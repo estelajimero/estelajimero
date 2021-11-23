@@ -1,4 +1,4 @@
-### Hey 👋 I'm Estela a designer & junior frontend developer.
+### Hey 👋 I'm Estela a junior frontend developer & designer.
 
 <br> 
 ✨ I ❤️ cats, having breakfast and music.
