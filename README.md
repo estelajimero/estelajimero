@@ -24,7 +24,6 @@
    
 ### Connect with me: 
 
-  <a href="https://twitter.com/holaconfetti" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/estelajimero/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://www.behance.net/estelajimero" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%8833D8.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;
   <br><br>
