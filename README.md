@@ -1,4 +1,4 @@
-### Hey 👋 I'm Estela a junior frontend developer & designer.
+### Hey 👋 I'm Estela, a junior frontend developer & designer.
 
 <br> 
 ✨ I ❤️ cats, having breakfast and music.
@@ -12,12 +12,10 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp; &nbsp;
    <a href="https://reactjs.org//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> &nbsp; &nbsp;
+   <a href="https://jestjs.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3253956%2Fjest-icon-sm.png&f=1&nofb=1&ipt=8d24ede6e41ebfcf52237f70db0d23fcef74c80df3947e1092cfa4d39cc1ac90&ipo=images" alt="react" width="40" height="40"/> </a> &nbsp; &nbsp;
+   <a href="https://testing-library.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftesting-library.com%2Fimg%2Flogo-large.png&f=1&nofb=1&ipt=56d997c34d2288ca46c46582acd91996e7aa24dbc63f90470c38a5edf437e6ce&ipo=images" alt="react" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> &nbsp; &nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="32"/> </a> &nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="32"/> </a> &nbsp;
+  <a href="https://github.com/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="32"/> </a>
 
 <br>
